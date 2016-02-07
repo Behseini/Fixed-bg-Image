@@ -1,0 +1,25 @@
+.fixed-bg-img {
+    background-image: url(http://www.cssigniter.com/preview/salon/files/2015/09/ss.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 50% -82px;height:500px;
+}
+.man{height:700px;}
+.tan{height:3000px;}
+
+
+<div class="man">ggg</div>
+<section class="fixed-bg-img" data-speed="0.4">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h3>Wedding Styling</h3>
+                        <p>Sustainable forage master cleanse vinyl cornhole meditation. Gentrify meggings XOXO hashtag brunch. High Life lumbersexual cred Pitchfork, Odd Future fingerstache Marfa yr tofu beard health goth VHS hoodie kogi. Seitan twee High Life listicle. Gentrify narwhal aesthetic Post-ironic mumblecore authentic, stumptown try-hard chambray sartorial McSweeney’s VHS put a bird on[…]</p>
+                        <a class="btn" href="http://www.cssigniter.com/preview/salon/wedding-styling/">Read More »</a>
+                    </div>
+                </div>
+                <!-- /row -->
+            </div>
+            <!-- /container -->
+    </section>
+<div class="tan"><div class="col-md-2"><h2>Ey de</h2></div></div>
